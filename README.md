@@ -159,8 +159,8 @@ TailPay 印度跑分系统提供完整的跑分业务逻辑、收益模型与风
 如需 **印度跑分系统演示、系统部署、源码授权或技术合作**，
 欢迎联系 TailPay 技术团队：
 
-- **TailPay 商务**：@tailpay  
-- **TailPay 客服**：@tail_Xisuo  
+- **TailPay 商务**：[@tailpay](https://t.me/tailpay)
+- **TailPay 客服**：[@tail_Xisuo](https://t.me/tail_Xisuo)
 
 （支持 Demo 预览与技术对接）
 
